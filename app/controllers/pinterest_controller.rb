@@ -1,0 +1,5 @@
+class PinterestController < ApplicationController
+  
+
+
+end
